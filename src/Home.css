@@ -1,0 +1,22 @@
+body {
+  font-family: monospace;
+  font-size: 50px;
+  font-weight: 100;
+  
+
+}
+.home {
+  margin-left: 20vw;
+  margin-right: 0vw;
+  background-color: aquamarine;
+  align-items: center;
+  box-sizing:inherit;
+  height: 50vw;
+  width: 50vw;
+}
+
+li {
+  background-color: blueviolet;
+  list-style-type: none;
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+.box-tap-svg {
+    position:absolute;
+    left: 50%;
+    transform: translate(-50%, 0); 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top:200px;
+}
+.tap-svg {
+    border:solid 2px rgb(168, 38, 38);
+    border-radius: 30px;
+}
+
+.counter {
+    font-size: 4em;
+    margin-top:2em;
+    user-select: none;
+}
